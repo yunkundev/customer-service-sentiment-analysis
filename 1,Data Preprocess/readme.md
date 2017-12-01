@@ -1,0 +1,1 @@
+This is the Data Preprocess step of project. You do data extract and data clean on the raw data.
